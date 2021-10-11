@@ -1,1 +1,5 @@
 
+To run the notebook code
+1) Download datasets from https://drive.google.com/drive/folders/1snJvC0tiEWvsaPXhZTNbW7MROqtm00Ms?usp=sharing
+2) Then move to the project folder https://colab.research.google.com/drive/1OelfmIODj6FEGl7UJ2vuBBKatFJrzkAf?usp=sharing
+3) Then insert downloaded dataset in Google collab folder, then code will run without exception: No such file or directory: '/content/pca_datasetATP.csv'
